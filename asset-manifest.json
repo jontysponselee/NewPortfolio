@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/NewPortfolio/static/js/main.314b677b.chunk.js",
+    "main.js.map": "/NewPortfolio/static/js/main.314b677b.chunk.js.map",
+    "runtime-main.js": "/NewPortfolio/static/js/runtime-main.23492300.js",
+    "runtime-main.js.map": "/NewPortfolio/static/js/runtime-main.23492300.js.map",
+    "static/css/2.b9dba9dc.chunk.css": "/NewPortfolio/static/css/2.b9dba9dc.chunk.css",
+    "static/js/2.c2fca34f.chunk.js": "/NewPortfolio/static/js/2.c2fca34f.chunk.js",
+    "static/js/2.c2fca34f.chunk.js.map": "/NewPortfolio/static/js/2.c2fca34f.chunk.js.map",
+    "static/js/3.62295849.chunk.js": "/NewPortfolio/static/js/3.62295849.chunk.js",
+    "static/js/3.62295849.chunk.js.map": "/NewPortfolio/static/js/3.62295849.chunk.js.map",
+    "index.html": "/NewPortfolio/index.html",
+    "static/css/2.b9dba9dc.chunk.css.map": "/NewPortfolio/static/css/2.b9dba9dc.chunk.css.map",
+    "static/js/2.c2fca34f.chunk.js.LICENSE.txt": "/NewPortfolio/static/js/2.c2fca34f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/NewPortfolio/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23492300.js",
+    "static/css/2.b9dba9dc.chunk.css",
+    "static/js/2.c2fca34f.chunk.js",
+    "static/js/main.314b677b.chunk.js"
+  ]
+}
